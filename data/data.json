@@ -1,0 +1,2218 @@
+{
+    "me": {
+        "name": "MIRKO GELSOMINI",
+        "interests": [
+            {
+                "pin": "parents",
+                "color": "#F1C40F",
+                "name": "FAMILY"
+            },
+            {
+                "pin": "drink",
+                "color": "#E67E22",
+                "name": "FRIENDS"
+            },
+            {
+                "pin": "tree_deciduous",
+                "color": "#2ECC71",
+                "name": "NATURE"
+            },
+            {
+                "pin": "soccer_ball",
+                "color": "#E74C3C",
+                "name": "SOCCER"
+            },
+            {
+                "pin": "buoy",
+                "color": "#8C4600",
+                "name": "TECHNOLOGY"
+            },
+            {
+                "pin": "globe",
+                "color": "#3498DB",
+                "name": "TRAVELS"
+            }
+        ],
+        "causes": [
+            {
+                "pin": "drink",
+                "color": "#E67E22",
+                "name": "CHILDREN"
+            },
+            {
+                "pin": "tree_deciduous",
+                "color": "#2ECC71",
+                "name": "DISABILITY"
+            },
+            {
+                "pin": "soccer_ball",
+                "color": "#E74C3C",
+                "name": "EDUCATION"
+            },
+            {
+                "pin": "buoy",
+                "color": "#8C4600",
+                "name": "TECHNOLOGY"
+            },
+            {
+                "pin": "globe",
+                "color": "#3498DB",
+                "name": "ENVIRONMENT"
+            }
+        ],
+        "photo": "me.jpg",
+        "cvlink": "resources/Mirko_Gelsomini_Resume.pdf",
+        "presentation": "<i class='glyphicon glyphicon-bell'></i><strong>Motto:</strong> <em>\"Do cool things that matter\"</em><br/><i class='glyphicon glyphicon-translate'></i><strong>Languages:</strong> Italian, English<br/><i class='glyphicon glyphicon-book'></i><strong>Education Level:</strong> PhD<br/><i class='glyphicon glyphicon-stopwatch'></i><strong>Employment:</strong> Adjunct Professor<br/>",
+        "description": "I am a very active person, I enjoy my work/studies and I’m always looking for new and innovative ideas to bring to a project.<br/>I am willing and motivated to contribute to my team and projects to ensure excellent results and successful delivery of solutions and products.<br/>I am confident, curious, open minded, and very excited about break-through ideas and technologies.<br/>My research explores how interactive technologies can be designed to promote the skills of children with special needs.",
+        "social": [
+            {
+                "pin": "facebook",
+                "color": "#3b5998",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/mirko.gelsomini"
+            },
+            {
+                "pin": "twitter",
+                "color": "#00aced",
+                "name": "Twitter",
+                "link": "https://twitter.com/MirkoGelsomini"
+            },
+            {
+                "pin": "linked_in",
+                "color": "#007bb6",
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/in/mirkogelsomini/en"
+            },
+            {
+                "pin": "instagram",
+                "color": "#517fa4",
+                "name": "Instagram",
+                "link": "http://instagram.com/mirkogelsomini"
+            },
+            {
+                "pin": "google_plus",
+                "color": "#eb7c6f",
+                "name": "Google Scholar",
+                "link": "https://scholar.google.it/citations?user=kGq15pIAAAAJ"
+            },
+            {
+                "pin": "windows",
+                "color": "#1D425D",
+                "name": "Academia",
+                "link": "https://polimi.academia.edu/MirkoGelsomini"
+            },
+            {
+                "pin": "e-mail",
+                "color": "#999999",
+                "name": "Email",
+                "link": "mailto:phd.mirko.gelsomini@gmail.com"
+            }
+        ]
+    },
+    "publications_url": "https://dblp.uni-trier.de/pers/tb1/g/Gelsomini:Mirko.bib",
+    "item": [
+
+        {
+            "title": "PhD in Information Technology",
+            "subtitle": "Thesis: Empowering Interactive Technologies for Children with Neuro-Developmental Disorders and their Caregivers",
+            "link": {
+                "url": "www.youtube.com/embed/26ZhgWIDMK8?start=300",
+                "type": "youtube"
+            },
+            "mark": "with Honors",
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2015"
+            },
+            "enddate": {
+                "month": "1",
+                "year": "2018"
+            },
+            "type": "education",
+            "icon": "polimi",
+            "image": "education/phd.jpg",
+            "dimension": "big",
+            "content": "Disability nowadays no longer means a condition, an incapacity, or lack that belongs to a body, but rather a product of the interactions between self, society, body, and the variety of interactions from political economies to personal and socio-economical commitments that they engender. From a socio-economical point of view, the rapid growth of these technological resources requires a carefully planned response by health institutions and their administrators. In addition to relevant staff development and training, this response urges to address the cost of technological resources applicable; the individuals' unique needs with which those resources will be most useful; the benefits and risks of using them; the methods for preparing care-givers (clinicians and families) to accept, adopt and appropriate these resources; and an organizational commitment to empirically evaluating their effectiveness and utility. <br/><br/> This work addresses the previous issues by developing the 'Empowerment Framework' in order to offer individuals in the care-giving sector the technological tools, services, abilities, and opportunities to feel empowered in using innovative interactive technologies, adapting them to meet their needs in a process called appropriation, and share their acquired knowledge, original technological approaches, and evidence-based results through a knowledge-based system."
+        },
+
+        {
+            "title": "Graduate Certificate in Strategic Management",
+            "subtitle": "Extensive Studies in: Innovation, Entrepreneurship, and Business Transformation; Marketing Management; Mergers, Acquisitions, and Restructurings;Negotiation and Organizational Conflict Resolution; Strategic Management",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "mark": "Final Grade: A",
+            "position": {
+                "name": "Harvard University",
+                "address": "Cambridge (USA)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2016"
+            },
+            "enddate": {
+                "month": "1",
+                "year": "2017"
+            },
+            "type": "education",
+            "icon": "harvard",
+            "image": "education/harvard.jpg",
+            "dimension": "big",
+            "content": "Courses (5 CFU each) in Extensive Studies: Innovation, Entrepreneurship, and Business Transformation; Marketing Management; Mergers, Acquisitions, and Restructurings; Negotiation and Organizational Conflict Resolution; Strategic Management}<br>Learning outcomes: ability to align the basic direction and goals of an organization; analyze an environment's social, political, technological, economic, and global factors; evaluate industry and market structure; and assess organizational strengths and weaknesses; understand the essentials of business management in a global economy, such as corporate responsibility and ethics, organizational efficiency, and decision-making frameworks for competing strategic priorities; leverage knowledge in corporate sustainability strategy, human resource management, strategic resource allocation, crisis management, and marketing management."
+        },
+
+
+
+        {
+            "title": "Master in Engineering of Computing Systems",
+            "subtitle": "Thesis: Designing, developing and evaluating touch-less motion based games for educational and therapeutic purposes",
+            "mark": "110 cum laude - U.S. Grade: A+ (with honors) ",
+            "link": {
+                "url": "/resources/Transcript.pdf",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "2",
+                "year": "2012"
+            },
+            "enddate": {
+                "month": "12",
+                "year": "2013"
+            },
+            "type": "education",
+            "icon": "polimi",
+            "image": "education/master.jpg",
+            "dimension": "big",
+            "content": "Communication and Society Engineering focuses on the communicative side of computer science. It provides communication skills for designing, implementing, presenting and evaluating innovative applications. For this purpose, the track offers courses such as fundamentals of communication sciences, (information and communication quality), argumentation theory (professional communication), computer mediated communication (multimedia interactive applications), visual communication (computer graphics) and social aspects of computer mediated communication (communication and society, accessibility). Along with the communication specialization, the track offers classic computer science courses in order to provide a concrete basis for any future jobs as a computer engineer.<br/><br/>Professionals trained in the Communication and Society Engineering track specialize in modern information systems and applications, with special emphasis on the integration of engineering and communication skills, as required for the effective development of highly usable software systems. Application domains include fast-growing fields like information retrieval, eBusiness, eGovernment, eTourism, eLearning, eFood, eCulture,Web-based information systems, graphical and multimedia applications, network enterprises."
+        },
+
+        {
+            "title": "Bachelor in Engineering of Computing Systems",
+            "subtitle": "Thesis: Development of a massively multiplayer online role-playing game (MMORPG) based on GPS to promote physical activity",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "9",
+                "year": "2007"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2011"
+            },
+            "type": "education",
+            "icon": "polimi",
+            "image": "education/bachelor.jpg",
+            "dimension": "big",
+            "content": "The highly interdisciplinary nature of information technology and of its countless applications require a broad cultural background right from Bachelor Degree level, both to permit successful entry into the job market as soon as possible and to form a solid base for possible continuation of the studies to higher levels in greater detail.<br/><br/>The Study Programme is strongly focussed on basic grounding, in which students acquire the essential skills in the scientific subjects that make up the indispensable foundations of engineering studies (physics but above all mathematics, that is analysis, geometry, algebra, mathematical logic, statistics and probability theory). These foundation skills are developed during the first three terms.<br/><br/>The computer skills taught are practical but at foundation level and are accompanied by basic skills in other branches of Information Engineering such as Automation Science, Telecommunications and Electronics.<br/><br/>The engineering training can be completed by two different Study Programmes, known respectively as General and Specific. The General Study Programme includes engineering subjects in sectors outside Information Engineering  (such as, for example, Chemistry, Technical Physics and Mechanics) while the Specific Programme covers engineering subjects within the Information sector and project activity specific to Computer Engineering."
+        },
+
+        {
+            "title": "International School of English",
+            "display": false,
+            "subtitle": "English courses",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Education First, London",
+                "address": "EF International Language Centre London, 74 Roupell St London SE1 8SS, UK"
+            },
+            "startdate": {
+                "month": "8",
+                "year": "2010"
+            },
+            "type": "education",
+            "image": "education/ef.jpg",
+            "dimension": "small",
+            "content": ""
+        },
+
+        {
+            "title": "International School of English",
+            "display": false,
+            "subtitle": "English courses",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Education First, Miami (USA)",
+                "address": "EF International Language Center Miami, 2469 Collins Ave, Miami, FL 33140"
+            },
+            "startdate": {
+                "month": "8",
+                "year": "2009"
+            },
+            "type": "education",
+            "image": "certificate/CertificatoIngleseMiami.jpg",
+            "dimension": "small",
+            "content": ""
+        },
+
+        {
+            "title": "Academic English",
+            "display": false,
+            "subtitle": "",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Southwark College",
+                "address": "London (UK)"
+            },
+            "startdate": {
+                "month": "7",
+                "year": "2011"
+            },
+            "enddate": {
+                "month": "2",
+                "year": "2012"
+            },
+            "type": "education",
+            "icon": "southwark",
+            "image": "education/ef.jpg",
+            "dimension": "medium",
+            "content": ""
+        },
+        {
+            "title": "Diploma of Information Systems Technician",
+            "subtitle": "Learnt basic fundamentals of scripting and programming, electronics, networking",
+            "mark": "94/100 - U.S. Grade: A",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "High School Alessandrini",
+                "address": "Vittuone, Milan (Italy)"
+            },
+            "startdate": {
+                "month": "9",
+                "year": "2002"
+            },
+            "enddate": {
+                "month": "7",
+                "year": "2007"
+            },
+            "type": "education",
+            "icon": "alessandrini",
+            "image": "education/alessandrini.jpg",
+            "dimension": "big",
+            "content": "A Computer Systems Technician Diploma program is designed to give students the skills necessary to resolve a variety of complex computer problems. They may be required to take the following courses by the diploma program:<br/><ul><li>Networking Fundamentals</li><li>Linux Operations Systems</li><li>Web Server Administration</li><li>Help Desk Support</li><li>Concepts of Scripting and Programming</li><li>Workstation Design</li><li>Skills Learned for Computer Systems Technicians</li></ul><br/>Computer systems technicians may work alone or in teams to evaluate computer technology problems and construct workable solutions. After completing the Computer Systems Technician Diploma program, the student should be skilled in the following areas:<ul><li>Conflict resolution and diagnostics of hardware and software</li><li>Programming and managing network systems</li><li>Providing network support to commercial or government organizations</li>"
+        },
+        
+        {
+            "title": "SENSEi. Esperienza in tutti i sensi. (Founder)",
+            "subtitle": "Multisensory Environments to foster Children’s Play, Education and Inclusion",
+            "link": {
+                "url": "http://sensei.space/",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "SENSEi (Founder)",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "01",
+                "year": "2020"
+            },
+            "enddate": {
+                "year": "now"
+            },
+            "icon": "sensei",
+            "type": "career",
+            "dimension": "medium"
+        },
+
+
+        {
+            "title": "Product Designer in Motion-based Technologies",
+            "subtitle": "Developing Motion-based Playful Activities for Children with Infantile Cerebral Palsy",
+            "link": {
+                "url": "https://www.fightthestroke.org/",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "FightTheStroke",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "10",
+                "year": "2018"
+            },
+            "enddate": {
+                "year": "now"
+            },
+            "icon": "fightthestroke",
+            "type": "career",
+            "dimension": "medium"
+        },
+
+
+
+        {
+            "title": "Data Analyst in Foresight Technologies",
+            "subtitle": "Development an A.I. tool to analyze current and future technological trends, automatically building foresighters network graphs and pre-empting the tech market.",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "ENI",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "10",
+                "year": "2018"
+            },
+            "enddate": {
+                "year": "now"
+            },
+            "icon": "eni",
+            "type": "career",
+            "dimension": "medium"
+        },
+
+        {
+            "title": "PostDoc in Information Technology",
+            "subtitle": "Contribution to the design, development and evaluation of multi-sensory environments for playful learning and inclusion in educational settings.",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2018"
+            },
+            "enddate": {
+                "month": "10",
+                "year": "2018"
+            },
+            "icon": "polimi",
+            "type": "career",
+            "dimension": "medium",
+            "content": "Contribution to the design, development and evaluation of multi-sensory environments for playful learning and inclusion in educational settings in the Polisocial Project \"LUDOMI\". Currently studying method to create AI-based adaptive and auto-generative contents to provide people with personalized educational multi-modal experiences. Leading a multi-departmental team of 20 students and researchers composed by software and mechanical engineers, designers, educators and psychologists.<br><br>       Contribution to the design and development of the hardware and software platform of E-toys, digitally-enhanced connected physical toys from which to collect data about play experiences. Performed a pilot study with over 200 children to label children's interactions on e-toys and train the toy platform. Collaborating with engineers and designers from Reply and Brightcape in the European Project \"PLET – Product Life Cycle Management for e-Toys\" (EC Program EIT Digital 2018)."
+        },
+        {
+            "title": "Councilor in Innovation and Social Policies",
+            "subtitle": "Supervisor of the Technology Innovation branch and discussion of relevant topics in the Municipal Council",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Municipality of Cornaredo",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "5",
+                "year": "2015"
+            },
+            "enddate": {
+                "month": "5",
+                "year": "2019"
+            },
+            "type": "career",
+            "icon": "comunecornaredo",
+            "image": "career/councilor.jpg",
+            "dimension": "big",
+            "content": "Development of regulations to encourage Disability Awareness"
+        },
+
+        {
+            "title": "PhD Visiting Research Fellow",
+            "subtitle": "Contributed to the design, development and evaluation of Robots' hardware and software to increase children's engagement and sustain conversation",
+            "link": {
+                "url": "http://robotic.media.mit.edu/portfolio/storytelling-companion/",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "MIT Media Lab",
+                "address": "Cambridge (USA)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2016"
+            },
+            "enddate": {
+                "month": "1",
+                "year": "2017"
+            },
+            "type": "career",
+            "icon": "mit",
+            "image": "career/phdmit.jpg",
+            "dimension": "big",
+            "content": "This project investigates whether a social robot modeled as a peer could be an effective and engaging language learning/teaching companion for young children over longitudinal encounters. It also explores aspects of personalization an its impact on children’s learning performance.<br><br>Contributed to the design, development and evaluation of Robots' hardware and software to engage neurodiverse people in playful learning experiences<br><br>Developed and evaluated Machine Learning approaches to increase people's engagement and sustain conversation with a robot<br><br>Collaborated in a team of software engineers, designers, linguists from Yale, Tufts and Google"
+        },
+        {
+            "title": "MSc Visiting Research Fellow",
+            "subtitle": "Motion-based Touchless Interaction Activities for Children with Autism Spectrum Disorder",
+            "link": {
+                "url": "www.youtube.com/embed/T2V4IYOW1xk",
+                "type": "youtube"
+            },
+            "position": {
+                "name": "Georgia Institute of Technology",
+                "address": "Atlanta (USA)"
+            },
+            "startdate": {
+                "month": "6",
+                "year": "2013"
+            },
+            "enddate": {
+                "month": "12",
+                "year": "2013"
+            },
+            "type": "career",
+            "icon": "georgiatech",
+            "image": "career/research.jpg",
+            "dimension": "big",
+            "content": "The goal of my research is to design, develop and evaluate touchless motion based games that can be used for educational and therapeutic purposes in different contexts - school, therapeutic center, home - to improve autistic children’s skills in the motor, cognitive, and social sphere."
+        },
+
+        {
+            "title": "Program Manager",
+            "subtitle": "Supervision of the Web development and E-learning branches",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Emblema Servizi",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2009"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "Emblema Services, Milan",
+            "type": "career",
+            "icon": "emblema",
+            "image": "career/emblema.jpg",
+            "dimension": "big",
+            "content": "- - Managed the web and online courses branch of Emblema<br/>- - Human resources mediation <br/>- - Developed websites, blogs, e-commerce/e-learning platforms  <br/>- Increased company’s profit bridging clients and needs (50+ projects)"
+        },
+        {
+            "title": "Private Tutor",
+            "subtitle": "Taught private lessons at a high school and university level to 30 teens circa per year",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2007"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2013"
+            },
+            "stakeholder": "me",
+            "type": "career",
+            "icon": "privatetutor",
+            "image": "",
+            "dimension": "medium",
+            "content": "- Taught private lessons and managed 25-30 teens per week<br/>- Taught different subjects including: maths, informatics, electronics, English, physics, chemistry <br/>- Supported teens for 8 high school thesis work about informatics"
+        },
+        {
+            "title": "Freelancer",
+            "display": false,
+            "subtitle": "",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2007"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2014"
+            },
+            "stakeholder": "me",
+            "type": "career",
+            "image": "",
+            "dimension": "medium",
+            "content": "- Designed, developed and maintained around 50 personal projects/ideas <br/>- Self study of new technologies <br/>- Joined with different communities such as Envato (CodeCanyon, GraphicRiver, ThemeForest), Stack Overflow and Dribbble"
+        },
+        {
+            "title": "Summer Camp Activity Leader",
+            "subtitle": "Lead activities in summer camp for primary school children",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Centro Estivo/Oratorio di Cornaredo",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2005"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2015"
+            },
+            "stakeholder": "Coop. Pianeta Azzurro, Milan",
+            "type": "career",
+            "icon": "pianetaazzurro",
+            "image": "career/summercamp.jpg",
+            "dimension": "medium",
+            "content": "- Organized, prepared and conducted educative and sport activities at the summer camp <br/>- Codirected the program<br/>- Diplomatic resolution of problems between parents and staff"
+        },
+        {
+            "title": "IT Consultant",
+            "display": false,
+            "subtitle": "",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2010"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "Webcn Insurance, Milan",
+            "type": "career",
+            "image": "",
+            "dimension": "medium",
+            "content": "- Helped and supported employees on hardware/software troubles <br/>- Developed automatic tools for management, analysis and extraction of client data <br/>- Created, maintained and monitored different marketing campaigns"
+        },
+        {
+            "title": "Steward AC Milan",
+            "subtitle": "Ensuring guests enter or leave the club stadium  they receive efficient and courteous assistance as well as providing basic security for the entrance",
+            "link": {
+                "url": "https://www.acmilan.com/en",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "San Siro Stadium",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2010"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2011"
+            },
+            "stakeholder": "Best Union, Milan",
+            "type": "career",
+            "icon": "acmilan",
+            "image": "career/milan.jpg",
+            "dimension": "medium",
+            "content": "- Controlled the access of journalists and press officers <br/>- Assured security of VIP, players and families"
+        },
+        {
+            "title": "Teacher - PC Courses",
+            "display": false,
+            "subtitle": "",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2014"
+            },
+            "stakeholder": "Emblema, Milan",
+            "type": "career",
+            "image": "",
+            "dimension": "medium",
+            "content": "- Taught private group courses <br/> Broad range of courses: Windows & Mac OS, Office suite, programming languages (Java, C#, C++, HTML, Javascript, SQL), Adobe suite (Photoshop, Illustrator Fireworks)"
+        },
+
+        {
+            "title": "Best Poster Award",
+            "subtitle": "Paper: \"Geniel: An auto-generative intelligent interface to empower learning in a multisensory environment\"",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "ACM IUI - International Conference on Intelligent User Interfaces",
+                "address": "Los Angeles (USA)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2019"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "award",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, {
+            "title": "Winner of 3rd Place",
+            "subtitle": "Paper: \"Reflex: Learning Beyond the Screen in a Simple, Fun, and Affordable Way\" - Student Research Competition",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "ACM CHI - International Conference on Human Factors in Computing Systems",
+                "address": "Montreal (Canada)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2018"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "award",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, {
+            "title": "Best Video Nomination (\"Golden Mouse\")",
+            "subtitle": "Video Paper: \"Puffy, a Friendly Inflatable Social Robot.\"",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "ACM CHI - International Conference on Human Factors in Computing Systems",
+                "address": "Montreal (Canada)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2018"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "award",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, {
+            "title": "Winner of \"La Torretta\" Award",
+            "subtitle": "The prize is given every year to those people or organizations who have distinguished themselves for their skills, projects and achievements: women and men who, in the fields of culture, work, sport and volunteering, have valorised the resources and energy in Lombardy.",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Banca di Credito Cooperativo",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2017"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "award",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, {
+            "title": "Best Video Award",
+            "subtitle": "Video Paper: \"Engaging Children as Storytellers: Backchanneling Models for Robots\"",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "ACM/IEEE HRI - International Conference on Human Robot Interaction",
+                "address": "Vienna (Austria)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2017"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "award",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, {
+            "title": "Best Short Paper Award",
+            "subtitle": "Paper: \"Attentive Robot Listener Engages Children in Language Learning\"",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "NewFriends Conference of Social Robots in Therapy and Education",
+                "address": "Barcelona (Spain)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2016"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "award",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, {
+            "title": "Microsoft Student Research Competition ",
+            "subtitle": "Paper: \"An Affordable Virtual Reality Learning Framework for Children with Neuro-Developmental Disorder\"",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "ACM Assets - Conference on Computers and Accessibility",
+                "address": "Reno (USA)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2016"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "microsoft",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, {
+            "title": "Best Full Paper",
+            "subtitle": "Paper: \"A huggable, mobile robot for developmental disorders\"",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "IEEE RO-MAN - International Symposium on Robot and Human Interactive Communication",
+                "address": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2016"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "award",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        },
+        {
+            "title": "Roberto Rocca Fellowship",
+            "subtitle": "for Thesis Abroad",
+            "link": {
+                "url": "http://web.mit.edu/progettorocca/fellowships/index.html",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Massachusetts Institute of Technology",
+                "address": "Cambridge (USA)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2015"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "polimi",
+            "image": "honor/robertorocca.png",
+            "dimension": "medium",
+            "content": "The Progetto funds 6-12 month research stays at MIT for high-quality PhD students."
+        },
+        {
+            "title": "Best Short Paper",
+            "subtitle": "Paper: \"Motion-based Touchless Interaction for ASD Children\"",
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "ACM AVI - International Conference on Advanced Visual Interfaces",
+                "address": "Como (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2014"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "award",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        },
+
+        {
+            "title": "Scholarship for Master Thesis Abroad",
+            "subtitle": "",
+            "link": {
+                "url": "/resources/Thesis%20-%20MOTION%20BASED%20INTERACTIVE%20STORYTELLING%20FOR%20CHILDREN%20WITH%20ASD.pdf",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "5",
+                "year": "2013"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "polimi",
+            "image": "",
+            "dimension": "medium",
+            "content": "The scholarship is a financial aid reserved for students enrolled in graduate programmes at Politecnico di Milano who are spending at least 3 months abroad completing a thesis."
+        },
+        {
+            "title": "Westmar Video Contest",
+            "subtitle": "First prize: won a year-long free rent in Atlanta",
+            "link": {
+                "url": "www.youtube.com/embed/jxA_txlnT-s",
+                "type": "youtube"
+            },
+            "position": {
+                "name": "Westmar Student Lofts",
+                "address": "Atlanta (USA)"
+            },
+            "startdate": {
+                "month": "7",
+                "year": "2013"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "westmar",
+            "image": "honor/freerent.jpg",
+            "dimension": "medium",
+            "content": ""
+        },
+        {
+            "title": "Scholarship for merit",
+            "subtitle": "",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "12",
+                "year": "2012"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "image": "",
+            "icon": "polimi",
+            "dimension": "medium",
+            "content": "The scholarship is a financial aid reserved for students enrolled in graduate programmes at Politecnico di Milano who are in possession of specific financial and merit requirements."
+        },
+
+        {
+            "title": "Contest \"Fausto Sartori\"",
+            "subtitle": "Development of an ecologic web portal",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Municipality of Milan",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "12",
+                "year": "2010"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "comunemilano",
+            "image": "",
+            "dimension": "medium",
+            "content": "Development of an ecologic web portal and related applications."
+        },
+
+        {
+            "title": "Contest \"Carta Regionale dei Servizi\"",
+            "subtitle": "First Prize",
+            "link": {
+                "url": "/img/project/2009_RegionalServicesCard.jpg",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Municipality of Milan",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "12",
+                "year": "2009"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "comunemilano",
+            "image": "",
+            "dimension": "medium",
+            "content": "Development of an informative website about the services regional card."
+        },
+
+        {
+            "title": "Scholarship for merit",
+            "subtitle": "for High School",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Municipality of Cornaredo",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2006"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "comunecornaredo",
+            "image": "",
+            "dimension": "medium",
+            "content": "The scholarship is a financial aid reserved for students enrolled in High School and living in Cornaredo (Milan) who are in possession of specific financial and merit requirements."
+        },
+        {
+            "title": "Scholarship for merit",
+            "subtitle": "for High School",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Municipality of Cornaredo",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2005"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "comunecornaredo",
+            "image": "",
+            "dimension": "medium",
+            "content": "The scholarship is a financial aid reserved for students enrolled in High School and living in Cornaredo (Milan) who are in possession of specific financial and merit requirements."
+        },
+        {
+            "title": "Scholarship for merit",
+            "subtitle": "for High School",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Municipality of Cornaredo",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2004"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "comunecornaredo",
+            "image": "",
+            "dimension": "medium",
+            "content": "The scholarship is a financial aid reserved for students enrolled in High School and living in Cornaredo (Milan) who are in possession of specific financial and merit requirements."
+        },
+        {
+            "title": "Scholarship for merit",
+            "subtitle": "for High School",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Municipality of Cornaredo",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2003"
+            },
+            "enddate": {
+                "month": "",
+                "year": ""
+            },
+            "type": "honor",
+            "icon": "comunecornaredo",
+            "image": "",
+            "dimension": "medium",
+            "content": "The scholarship is a financial aid reserved for students enrolled in High School and living in Cornaredo (Milan) who are in possession of specific financial and merit requirements."
+        },
+
+
+        {
+            "title": "Emergency Medical Technician",
+            "subtitle": "Trained to respond to emergency situations regarding medical issues, traumatic injuries and accident scenes",
+            "mark": "Passed",
+            "position": {
+                "name": "Croce Verde Cornaredo",
+                "address": "Milan (Italy)"
+            },
+            "link": {
+                "url": "",
+                "type": "iframe"
+            },
+            "startdate": {
+                "month": "12",
+                "year": "2015"
+            },
+            "type": "certificate",
+            "icon": "ambulance",
+            "image": "certificate/ambulance.jpg",
+            "dimension": "medium",
+            "content": "Emergency medical technician (EMT) or ambulance technician is a health care provider of emergency medical services. EMTs are clinicians, trained to respond quickly to emergency situations regarding medical issues, traumatic injuries and accident scenes."
+        },
+
+        {
+            "title": "Expert in English: 99%",
+            "display": false,
+            "subtitle": "Certificate @ Duolingo Test Center",
+            "mark": "Expert - C.E.F.: C2",
+            "link": {
+                "url": "https://certs.duolingo.com/56gxz2s3",
+                "type": "iframe"
+            },
+            "startdate": {
+                "month": "12",
+                "year": "2015"
+            },
+            "type": "certificate",
+            "image": "certificate/duolingo.jpg",
+            "dimension": "big",
+            "content": "Can understand virtually anything heard or read, even intellectually demanding material such as an academic lecture or a book on philosophy. <br/><br/>Can use the language fluently and spontaneously in a way that can even be more advanced than an average native speaker."
+        },
+
+        {
+            "title": "Ielts",
+            "subtitle": "English Certificate - Academic Version. C.E.F.: C.2",
+            "mark": "C.E.F.: C.2",
+            "link": {
+                "url": "https://www.ielts.org/",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Southwark College",
+                "address": "London (UK)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "type": "certificate",
+            "icon": "ielts",
+            "image": "certificate/ielts.jpg",
+            "dimension": "big",
+            "content": "COMMON EUROPEAN FRAMEWORK: (C.2): <br/><br/>Can understand with ease virtually everything heard or read. <br/><br/>Can summarize information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. <br/><br/>Can express themselves spontaneously, very fluently and precisely, differentiating finer shades of meaning even in the most complex situations."
+        },
+
+        {
+            "title": "Adobe After Effects",
+            "subtitle": "Create motion graphics and visual effects for film, TV, video, and web",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Espero",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "3",
+                "year": "2014"
+            },
+            "type": "certificate",
+            "icon": "aftereffects",
+            "image": "certificate/aftereffects.jpg",
+            "dimension": "medium",
+            "content": "Know, understand and investigate the use of more advanced tools. Perfecting the techniques used in post-production, animation and motion graphics with Adobe After Effects CS6."
+        },
+        {
+            "title": "Maxon Cinema 4d",
+            "subtitle": "3d modeling and lighting",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "3",
+                "year": "2014"
+            },
+            "type": "certificate",
+            "icon": "cinema4d",
+            "image": "certificate/cinema4d.jpg",
+            "dimension": "medium",
+            "content": "3D modeling, animation and rendering application developed. It is capable of procedural and polygonal/subd modeling, animating, lighting, texturing, rendering, and common features found in 3D modelling applications."
+        },
+        {
+            "title": "Adobe Photoshop",
+            "subtitle": "Edit, composite, and create images, graphics, and art",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Espero",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2011"
+            },
+            "type": "certificate",
+            "icon": "photoshop",
+            "image": "certificate/photoshop.jpg",
+            "dimension": "medium",
+            "content": "Process images with complex interventions, both technical and creative in an operational careful management of the various types of digital files."
+        },
+        {
+            "title": "Adobe Fireworks",
+            "subtitle": "Create raster web design and layout",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Espero",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2011"
+            },
+            "type": "certificate",
+            "icon": "fireworks",
+            "image": "certificate/fireworks.jpg",
+            "dimension": "medium",
+            "content": "Process images with complex interventions, both technical and creative in an operational careful management of the various types of digital files."
+        },
+        {
+            "title": "Adobe Illustrator",
+            "subtitle": "Create vector art and illustrations",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Espero",
+                "address": "Milan, Italy"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2011"
+            },
+            "type": "certificate",
+            "icon": "illustrator",
+            "image": "certificate/illustrator.jpg",
+            "dimension": "medium",
+            "content": "At the end of the course the student will be able to design complex graphic compositions and artistic effects impact."
+        },
+        {
+            "title": "Adobe Dreamweaver",
+            "subtitle": "Design and develop websites",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Espero",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2011"
+            },
+            "type": "certificate",
+            "icon": "dreamweaver",
+            "image": "certificate/dreamweaver.jpg",
+            "dimension": "medium",
+            "content": "Create a website with dynamic pages in Dreamweaver; Define a working environment for the development of dynamic applications simultaneously;  Create tables and manage information using mySQL; Identify instructions mySQL and PHP directly from within Dreamweaver;Using Wizards of DW to retrieve and display data in pages; Define a Content Management System for the site; Create form to search or send email; Create protected pages and manage user registration."
+        },
+        {
+            "title": "Adobe Flash",
+            "subtitle": "Design and develop web animations",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Espero",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2011"
+            },
+            "type": "certificate",
+            "icon": "flash",
+            "image": "certificate/flash.jpg",
+            "dimension": "medium",
+            "content": "Precisely control the animation through motion editor panel; Dynamically load external files into the movie; Insert multimedia content (audio and video); Use standard components and install new ones; Set interaction: non-linear navigation, forms, interaction with the user; Structuring a simple site made entirely in flash."
+        },
+        {
+            "title": "Adobe InDesign",
+            "subtitle": "Craft layouts and paginations",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Espero",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "1",
+                "year": "2011"
+            },
+            "type": "certificate",
+            "icon": "indesign",
+            "image": "certificate/indesign.jpg",
+            "dimension": "medium",
+            "content": ""
+        },
+
+        {
+            "title": "A.C. Milan Security Certificate",
+            "subtitle": "Ensure security during A.C. Milan soccer events.",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "San Siro Stadium, Milan",
+                "address": ""
+            },
+            "startdate": {
+                "month": "5",
+                "year": "2009"
+            },
+            "type": "certificate",
+            "icon": "acmilan",
+            "image": "certificate/Milan.jpg",
+            "dimension": "medium",
+            "content": "Courses: Legal, public order, health, firefight, social and psycological behaviour."
+        },
+        {
+            "title": "3D Studio Max",
+            "subtitle": "3D Modeling, Lighting and Rendering",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "3",
+                "year": "2008"
+            },
+            "type": "certificate",
+            "image": "",
+            "icon": "3dstudiomax",
+            "dimension": "small",
+            "content": "3D Studio Max, is a 3D computer graphics program for making 3D animations, models, and images. It was developed and produced by Autodesk Media and Entertainment. It has modeling capabilities, a flexible plugin architecture and can be used on the Microsoft Windows platform. It is frequently used by video game developers, many TV commercial studios and architectural visualization studios. It is also used for movie effects and movie pre-visualization."
+        },
+
+        {
+            "title": "E.C.D.L.",
+            "subtitle": "European Computer Driving License: Basics of Office Suite Products + Windows O.S.",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "High School Alessandrini",
+                "address": "Vittuone (Italy)"
+            },
+            "startdate": {
+                "month": "6",
+                "year": "2006"
+            },
+            "type": "certificate",
+            "icon": "ecdl",
+            "image": "certificate/Ecdl.jpg",
+            "dimension": "medium",
+            "content": "European Computer Driving License: Basics of Office Suite Products (Word, Excel, PowerPoint, Access, Outlook) + Windows O.S."
+        },
+        
+        
+        {
+            "title": "Advanced User Interfaces",
+            "subtitle": "Design and Development of Interactive products using Arduino, Raspberry, Microsoft Kinect SDK, A-Frame VR Framework",
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2014"
+            },
+            "enddate": {
+                "month": "6",
+                "year": "2019"
+            },
+            "type": "teaching",
+            "icon": "computersciencemaster",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        },
+        {
+            "title": "Hypermedia Applications - Web",
+            "subtitle": "HTML5, CSS3, JavaScript, Jquery, PHP, SQL, Google API and Marketing Tools, Youtube API, Facebook API, Search Engine Optimization (SEO), Website Usability",
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2014"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2019"
+            },
+            "type": "teaching",
+            "icon": "computersciencemaster",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        },
+        {
+            "title": "Online Informatics",
+            "subtitle": "Technological project design and development, Web Usability",
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2017"
+            },
+            "enddate": {
+                "month": "6",
+                "year": "2019"
+            },
+            "type": "teaching",
+            "icon": "computersciencemaster",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        },
+        {
+            "title": "Interaction Design Studio",
+            "subtitle": "Tutoring the design and development of interactive products. Teaching User Experience Development and Arduino Programming",
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2017"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2020"
+            },
+            "type": "teaching",
+            "icon": "communicationdesignmaster",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        },
+        {
+            "title": "Digital Interactive Technologies for Physical Interfaces",
+            "subtitle": "Teaching AI, Arduino programming and tech. feasibility",
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2018"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2019"
+            },
+            "type": "teaching",
+            "icon": "productdesignmaster",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        },
+        {
+            "title": "Technologies for Connected Products and Systems",
+            "subtitle": "Teaching AI, Arduino programming and tech. feasibility",
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2018"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2019"
+            },
+            "type": "teaching",
+            "icon": "interactiondesignmaster",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, 
+        {
+            "title": "Technologies for Connected Products and Systems",
+            "subtitle": "Teaching AI, Arduino programming and tech. feasibility",
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2019"
+            },
+            "enddate": {
+                "month": "",
+                "year": "2020"
+            },
+            "type": "teaching",
+            "icon": "masterdesign",
+            "image": "",
+            "dimension": "medium",
+            "content": ""
+        }, 
+        
+        
+
+
+
+        {
+            "title": "International School of English",
+            "display": false,
+            "subtitle": "English courses",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Education First, Malta",
+                "address": "Malta"
+            },
+            "startdate": {
+                "month": "8",
+                "year": "2009"
+            },
+            "type": "education",
+            "image": "education/ef.jpg",
+            "dimension": "small",
+            "content": ""
+        },
+        {
+            "title": "S'COOL",
+            "subtitle": "Motion-based Interactive Activities for Children with Autism Spectrum Disorder",
+            "link": {
+                "url": "www.youtube.com/embed/M-JNKhByydw&index",
+                "type": "youtube"
+            },
+            "startdate": {
+                "month": "8",
+                "year": "2013"
+            },
+            "enddate": {
+                "month": "12",
+                "year": "2013"
+            },
+            "position": {
+                "name": "Georgia Institute of Technology",
+                "address": "Atlanta (USA)"
+            },
+            "stakeholder": "Georgia Tech. + Massachusetts Institute of Tech. + Politecnico di Milano",
+            "type": "project",
+            "image": "project/scool.jpg",
+            "dimension": "big",
+            "code": [
+                "C#",
+                "Microsoft Kinect SDK",
+                "HTML5",
+                "Css3",
+                "Javascript",
+                "Jquery",
+                "JSON",
+                "PHP",
+                "SQL",
+                "Phonegap",
+                "Arduino"
+            ],
+            "content": "Autism spectrum disorder (ASD) has become the fastest growing disability in the United States with current prevalence rates estimated at as many as 1 in 88 children (CDC, 2013). 67 children are diagnosed per day, meaning that a new case is diagnosed about every 20 minutes, a tenfold increase compared to 40 years ago. These numbers indicate an urgent need for focused and ongoing intervention. <br/><br/>Each child with ASD behaves differently, yet the disorder is characterized by a triad of symptoms related to lack of social interaction, deficits in the acquisition and expression of language, and repetitive patterns of behavior often accompanied by sensorimotor impairments.<br/><br/>This work presents a technological ecosystem centered on the brand new notion of Human To Human Computer Interaction, HHCI, where technology is no more the primary actor (as suggested by HCI) but it is just, simply, a support between the human collaboration.<br/><br/>Our initial body of research started from the Lionheart School in Alpharetta, Atlanta, an excellence in the ASD panorama. A participatory design approach with a strong involvement of therapists, psychologists, educators, and children as players of stories has been carried out with the school. <br/><br/>So far, this interaction paradigm has been mainly applied to 3 classes of different functional levels and involved 20 children aged from 5 to 13. The empirical study is still being carried through video observation, focus group, semi-structured interviews and log files. <br/><br/>Overall children reacted positively to the introduction of the new system and nowadays it is constantly integrated into Lionheart’s activities. Improvements in movement, involvement and engagement with peers were noticed. Furthermore the Occupational Therapist perceived an “unbelievable” progress in motor movements in some kids while educators detected not only an enhancement of socialization but also communication and shared strategy planning.<br/><br/>The project is a continuing work; initial development and testing are promising. The ability to easily create or modify learning material around a child's special interest is seen as a major advantage to engaging individuals in social centric activities. Further work is in progress to test the platform’s ability to automatically collect and analyze data and to create a modular architecture that will make it reusable and adaptable for different developers’ and kids’ needs."
+        },
+        {
+            "title": "Rush Race",
+            "subtitle": "Interdisciplinary Course of Robotics and Design",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "4",
+                "year": "2014"
+            },
+            "stakeholder": "Politecnico di Milano",
+            "type": "project",
+            "image": "project/rushrace.jpg",
+            "dimension": "medium",
+            "code": [
+                "Arduino"
+            ],
+            "content": "Development of the basic competence needed to design a robot both from the technological and design points of view. Improve the basic competence to setup a project, to interact in a multi-disciplinary group of engineers and designers, to present and share results."
+        },
+        {
+            "title": "MYAPPLEFIT",
+            "subtitle": "Mobile Application to manage gym schedule and gather info about exercises",
+            "link": {
+                "url": "http://mirko.gelsomini.info/img/project/applefit.png",
+                "type": "iframe"
+            },
+
+            "startdate": {
+                "month": "6",
+                "year": "2012"
+            },
+            "stakeholder": "Applefit Gym, Olgiate Olona (Milan)",
+            "type": "project",
+            "image": "project/myapplefit.jpg",
+            "dimension": "big",
+            "code": [
+                "JQuery Mobile",
+                "HTML5",
+                "PHP",
+                "SQL",
+                "JSON"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Peter Pan - Adventures in Neverland",
+            "subtitle": "Modeling, animation and game play of a 3D game in Blender inspired to the famous Disney movie Peter Pan",
+            "link": {
+                "url": "www.youtube.com/embed/ZIwdEM72-nc",
+                "type": "youtube"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "University Project - 3d Class",
+            "type": "project",
+            "image": "project/peterpan.jpg",
+            "dimension": "medium",
+            "code": [
+                "3D",
+                "Blender",
+                "Phyton"
+            ],
+            "content": ""
+        },
+        {
+            "title": "PAZL - Find your way everyday",
+            "subtitle": "",
+            "link": {
+                "url": "www.youtube.com/embed/deuYNuB8XLk",
+                "type": "youtube"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "University Project - Communication Class",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "Photoshop",
+                "Fireworks",
+                "After Effects"
+            ],
+            "content": "Proposal of a new social network to share places and trip adventures"
+        },
+        {
+            "title": "Stewy - Goes to EF Miami",
+            "subtitle": "",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "Ef Bloggers Competition, Miami (USA)",
+            "type": "project",
+            "image": "project/2012_StewyGoesToEfMiami.jpg",
+            "dimension": "medium",
+            "code": [
+                "JQuery",
+                "SQL",
+                "PHP"
+            ],
+            "content": "Blog for the contest EF Bloggers 2012"
+        },
+        {
+            "title": "Emblema Ti Forma - E-Learning Platform",
+            "subtitle": "",
+            "link": {
+                "url": "http://www.emblema.it/tiforma/",
+                "type": "iframe"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "Emblema, Sedriano (Milan)",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "Javascript",
+                "SQL",
+                "PHP"
+            ],
+            "content": "E-Learning platform to watch online videos and take exams"
+        },
+        {
+            "title": "DOWNCE",
+            "subtitle": "Content Management System to share links, follow users and send messages",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "Freelancer Project",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "Javascript",
+                "SQL",
+                "PHP"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Spewy - Italian chatter bot",
+            "subtitle": "Website to simulate an intelligent conversation with human users via auditory and textual channels",
+            "link": {
+                "url": "/img/project/2012_Spewy2.jpg",
+                "type": "iframe"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "Freelancer Project",
+            "type": "project",
+            "image": "project/2012_Spewy.jpg",
+            "dimension": "medium",
+            "code": [
+                "Javascript",
+                "JQuery",
+                "SQL",
+                "PHP",
+                "Fireworks"
+            ],
+            "content": ""
+        },
+        {
+            "title": "ILPROFUMOXTE - E-commerce platform",
+            "subtitle": "E-commerce website to create and buy personal labels of perfumes",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "Digi s.n.c., Settimo Milanese (Milan)",
+            "type": "project",
+            "image": "project/2012_IlProfumoXTe.jpg",
+            "dimension": "medium",
+            "code": [
+                "Flash AS",
+                "JQuery",
+                "SQL",
+                "PHP",
+                "Fireworks"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Pirates - Augmented Reality",
+            "subtitle": "Webcam motion control 2D game",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2012"
+            },
+            "stakeholder": "Freelancer Project",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "Flash AS"
+            ],
+            "content": ""
+        },
+        {
+            "title": "MioMercatino",
+            "subtitle": "E-commerce website to host markets and sell products",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2011"
+            },
+            "stakeholder": "Emblema, Sedriano (Milan)",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "Javascript",
+                "SQL",
+                "PHP"
+            ],
+            "content": ""
+        },
+        {
+            "title": "City Pocket",
+            "subtitle": "MMORPG where players interact within the real world to increase resources in the virtual one",
+            "link": {
+                "url": "www.youtube.com/embed/wLoITKBhCJI",
+                "type": "youtube"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2011"
+            },
+            "stakeholder": "University Bachelor Thesis",
+            "type": "project",
+            "image": "project/2011_CityPocket2.jpg",
+            "dimension": "big",
+            "code": [
+                "PHP",
+                "SQL",
+                "Google SketchUp",
+                "Photoshop",
+                "Google Maps API"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Smart Florence - Florence in your hands",
+            "subtitle": "Multimedia Interactive Application Project",
+            "link": {
+                "url": "www.youtube.com/embed/Qw94jhdqnhM",
+                "type": "youtube"
+            },
+            "startdate": {
+                "month": "2",
+                "year": "2013"
+            },
+            "stakeholder": "University Project",
+            "type": "project",
+            "image": "",
+            "dimension": "medium",
+            "code": [
+                "Fireworks",
+                "After Effects"
+            ],
+            "content": "Mockup and Video Concept of a new app. to suggest Florence best POIs."
+        },
+        {
+            "title": "Didascalos - E-Learning platform",
+            "subtitle": "E-learning platform to let students communicate with teachers following the style of Yahoo answers",
+            "link": {
+                "url": "http://www.didascalos.it/",
+                "type": "iframe"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2011"
+            },
+            "stakeholder": "Emblema, Sedriano (Milan)",
+            "type": "project",
+            "image": "",
+            "dimension": "medium",
+            "code": [
+                "Javascript",
+                "SQL",
+                "PHP"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Poker",
+            "subtitle": "Classic poker game user vs user",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2011"
+            },
+            "stakeholder": "Freelancer Project",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "Java"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Greenlife",
+            "subtitle": "Information about eco-sustainability and tools to learn and play",
+            "link": {
+                "url": "www.youtube.com/embed/Zfp2JboNTz8",
+                "type": "youtube"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2010"
+            },
+            "stakeholder": "Contest, Municipality of Milan",
+            "type": "project",
+            "image": "",
+            "dimension": "medium",
+            "code": [
+                "Javascript",
+                "SQL",
+                "PHP",
+                "Wordpress",
+                "Google Maps API",
+                "C++"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Save the Earth, Respect Nature",
+            "subtitle": "What goes around comes around - video project",
+            "link": {
+                "url": "www.youtube.com/embed/yeyt9Vsuuh0",
+                "type": "youtube"
+            },
+            "startdate": {
+                "month": "5",
+                "year": "2012"
+            },
+            "stakeholder": "Professional Communication Class Project, Como",
+            "type": "project",
+            "image": "",
+            "dimension": "medium",
+            "code": [
+                "After Effects"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Punto Pizza Milano",
+            "subtitle": "Website and 3D modeling of a pizza shop to order pizza online",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "startdate": {
+                "month": "",
+                "year": "2010"
+            },
+            "stakeholder": "Pizzeria Punto Pizza, Milan",
+            "type": "project",
+            "image": "project/2009_PuntoPizzaMilano.jpg",
+            "dimension": "medium",
+            "code": [
+                "HTML",
+                "SketchUp",
+                "Flash"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Crossfire",
+            "subtitle": "Multiplayer 2D game on the concept of Age of Empires",
+            "link": {
+                "url": "/img/project/2009_crossfire.jpg",
+                "type": "iframe"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2009"
+            },
+            "stakeholder": "University Project, Java Class",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "Java"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Webcn Grabber",
+            "subtitle": "Grab datas from the web (phone/fax numbers, emails)",
+            "link": {
+                "url": "/img/project/2009_WebcnGrabber.jpg",
+                "type": "iframe"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2009"
+            },
+            "stakeholder": "Webcn Insurance Company, Milan",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "HTML",
+                "PHP",
+                "XML",
+                "C++"
+            ],
+            "content": ""
+        },
+        {
+            "title": "Arcoshotel",
+            "subtitle": "Website of a brasilian hotel",
+            "link": {
+                "url": "/img/project/2009_HotelArcos.jpg",
+                "type": "iframe"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2009"
+            },
+            "stakeholder": "Arcos Hotel, Brasil",
+            "type": "project",
+            "image": "",
+            "dimension": "small",
+            "code": [
+                "Flash"
+            ],
+            "content": ""
+        },
+        {
+            "title": "WOW Messenger",
+            "subtitle": "Online instant messaging system (client + server via socket) following the concept of MSN Messenger",
+            "link": {
+                "url": "www.youtube.com/embed/exsKGyormS0",
+                "type": "youtube"
+            },
+            "startdate": {
+                "month": "7",
+                "year": "2007"
+            },
+            "stakeholder": "High School Thesis Project",
+            "type": "project",
+            "image": "project/2007_Wow.jpg",
+            "dimension": "big",
+            "code": [
+                "SQL",
+                "PHP",
+                "C++"
+            ],
+            "content": ""
+        },
+
+
+
+        {
+            "title": "Franca Garzotto",
+            "subtitle": "Associate Professor of Computer Engineering at the Department of Electronics and Information",
+            "link": {
+                "url": "http://www.deib.polimi.it/eng/people/details/61018",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "12",
+                "year": "2012"
+            },
+            "type": "aboutme",
+            "image": "aboutme/garzotto.jpg",
+            "dimension": "big",
+            "content": "[...] Mirko is one of the best students I've ever worked with [...] <br/><br/>Full reference available in italian: Nel periodo di ricerca (Agosto-Dicembre 2013) presso Georgia Tech Mirko lavora con il gruppo di ricerca del prof. Abowd e della dott.ssa Rozga, con i quali e’ iniziata nei primi mesi del 2013 una entusiasmante e fruttuosa collaborazione. Questa esperienza permettera’ a Mirko di approfondire le tematiche della propria tesi, sperimentare la tecnologia sviluppata in scuole e centri terapeutici locali, collaborare con uno dei gruppi di ricerca piu’ prestigiosi al livello mondiale nel settore Human-Computer- Interaction (il gruppo del prof. Gregory Abowd), e infine stabilire relazioni scientifiche di cui beneficeranno in futuro sia lo studente che il nostro gruppo di ricerca al Politecnico di Milano. <br/><br/>Il lavoro che Mirko sta svolgendo e’ complesso ad innovativo dal punto di vista tecnologico, applicativo e di impatto sociale, per varie ragioni: la natura della tecnologia applicata (dispositivi per l’interazione motion-based touchless); la sfida che rappresenta il target di riferimento (bambini autistici – sulla cui sindrome, per quanto estremamente diffusa, la comprensione profonda e’ ancora molto preliminare) e il grande beneficio che potenzialmente il sistema sviluppato puo’ avere su queste persone; la complessita’ di svolgere studi empirici sul campo al fine di indentificare e validate requisiti e scelte di progettazione (di contenuti multimediali, attivita’, interfacce, linguaggio gestuale)<br/><br/>In ottobre 2013 ho visitato per alcuni giorni Giorgia Tech, collaborato alle attivita’ di Mirko e del gruppo con cui lavora,  ho partecipato ad una giornata di sperimentazione presso la scuola LionHearth per bambini autistici insieme con Mirko e il gruppo con cui lavora, e ho potuto confrontatarmi il prof. Abowd sul lavoro che Mirko sta svolgendo. <br/><br/>Questa esperienza mi ha fornito ulteriore conferma sia della qualita’ di Mirko, che considero tra i migliori studenti con cui abbia mai lavorato, e ha messo in evidenza i benefici – in termini scientifici, professionali, e umani - che egli sta derivando da questa sua permanenza a Georgia Tech. <br/><br/>Il prof. Abowd e’ entusiasta di questo nostro studente, al punto che si è dichiarato disponibile ad accettarlo nel PhD program di Georgia Tech, che rappresenta uno piu’ ambiti e qualificati programmi di PhD degli Stati Uniti. Mirko ha deciso di non accettare questa offerta, e di ritornare in Italia per svolgere un periodo come assegnista di ricerca post-laurea e candidarsi per il PhD presso il nostro Politecnico. Possiamo tuttavia essere fieri della reputazione che questo studente ha costruito presso Georgia Tech, che ci fa onore e contribuisce alla reputazione del Politecnico stesso.  Anche la sua scelta, pur sofferta,  di rientrare nel nostro paese e nella nostra universita’, non puo’ che farci piacere. La collaborazione con Georgia Tech e il gruppo del prof. Abowd e’ di lungo termine, essendo focalizzata su un tema complesso che appassiona sia la sottoscritta che il collega statunitense, e Mirko contribuira’ dall’Italia al proseguimento del lavoro iniziato con la tesi e rafforzera’ la collaborazione tra i due gruppi di ricerca. "
+        },
+        {
+            "title": "Gregory Abowd",
+            "subtitle": "Regents’ and Distinguished Professor in the School of Interactive Computing.",
+            "link": {
+                "url": "http://www.gregoryabowd.com/about/about-abowd",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Georgia Institute of Technology",
+                "address": "Atlanta (USA)"
+            },
+            "startdate": {
+                "month": "",
+                "year": "2014"
+            },
+            "type": "aboutme",
+            "image": "aboutme/abowd.jpg",
+            "dimension": "big",
+            "content": "[...]  in 2 months, Mirko achieved more than others students did in 2 years [...] <br/><br/>Full reference available here: <br/>Mirko worked with me and my colleague, Dr. Agata Rozga, on a collaborative project with a local school for children with autism. It was a very rewarding experience for all of us, and the beginning of what we hope will be a fruitful collaboration with Mirko and Prof. Franca Garzotto. Dr. Rozga and I were immediately impressed with Mirko’s enthusiasm and preparation when he came to Atlanta to work on this project. He is clearly a very passionate person when it comes to developing technology for children and evaluating its effectiveness.  He came with excellent technical skills and a desire to build better skills in human-centered design and evaluation and working with kids with autism. Mirko was a very effective collaborator, both with Dr. Rozga and I as well as with another masters student who was new to Georgia Tech, Ms. Arpita Bhattacharya. In fact, Mirko became both a collaborator and a mentor for Arpita and has put her in a position to continue his work here in Atlanta after he leaves. I am sure he will remain closely connected to the project. Together, Mirko and Arpita built a variety of motion-based games and experiences and have deployed them at the Lionheart School in northern Atlanta. They have continually met with staff at the school to best understand the opportunities to use motion-based technologies (the Microsoft Kinect) to support a variety of behavioral, physical and academic goals of the school. They have interacted with kids of all abilities and ages, and have gained tremendous insights into the opportunities and challenges of this technology for this population.  Dr. Rozga has worked on this project with a variety of students over the past couple years, and I am sure she would agree that in 2 months, Mirko achieved more than others students did in 2 years. I attribute most of that success to Mirko’s technical and collaborative skills. He even reached out to colleagues at MIT to attempt to use their storywriting framework for his project. I can give no stronger evaluation of his work on this project than to say he so impressed Dr. Rozga and I that we encouraged him to consider doing a PhD in this area, potentially with us, in the future.  He has all of the skills, drive, organization and passion to be a very successful graduate student in this area and a successful researcher. It is for these reasons that I highly recommend Mirko without reservation. He has an infectious and sincere personality to accompany his technical expertise, and I am sure he will go far in life. You should be very proud of him."
+        },
+        {
+            "title": "Andrea Bonarini",
+            "subtitle": "Full Professor in AI&Robotics in the Department of Electronics and Information",
+            "link": {
+                "url": "http://www.deib.polimi.it/eng/people/details/100410",
+                "type": "iframe"
+            },
+            "position": {
+                "name": "Politecnico di Milano",
+                "address": "Milan (Italy)"
+            },
+            "startdate": {
+                "month": "11",
+                "year": "2015"
+            },
+            "type": "aboutme",
+            "image": "aboutme/bonarini.jpg",
+            "dimension": "big",
+            "content": "Mirko is very effective in achieving goals and able to work with a high degree of independence, while interacting constructively both with colleagues, mentors, and bosses. He could effectively manage a group of collaborators bringing them to achieve the global goals of the projects, while personally contributing in a substantial way to their success. [...] I know Mirko Gelsomini as a student in my courses, as PhD Candidate, and as collaborator in research projects. He is very effective in achieving goals and able to work with a high degree of independence, while interacting constructively both with colleagues, mentors, and bosses. He could effectively manage a group of  collaborators bringing them to achieve the global goals of the projects, while personally contributing in a substantial way to their success. As a PhD candidate, he was among the best awarded with one of the few scholarship available in our area, and he has been so far very effective in the progress of his PhD track. He was able to pass with success the programmed PhD courses very early w.r.t. to the average, while effectively working on his PhD thesis. He has already published 7 papers in international conference proceedings and there is a good perspective of a significant scientific production in the very next future. As a collaborator in the research, we are working on the application of robots and technological tools in the interaction with children with special needs. This topic matches one of the principal research lines of the Personal Robots Group at the MIT Media Lab, headed by prof. Cynthia Breazel, where Mirko is applying to spend his period at MIT. His work there will contribute to the projects they are developing, and will give him the possibility to acquire a strong competence from one of the best research groups in this topic. Mirko is working in this area since his Master thesis, and he is very much committed to obtain significant results with real subjects. Within the project we are collaborating in, he developed innovative robots that have been already tested with more than 20 children with special needs; a more extensive exploitation session is about to start and will undergo in the next months, with the expectation of obtaining a large amount of data and insights on the specific problems that may arise when bringing technology and robots in such a diverse subject population. In conclusion, I strongly reccomend Mirko as a person that could give a significant contribution to the research in his area."
+        },
+
+
+
+
+        {
+            "title": "Local Press - Settegiorni",
+            "subtitle": "Heading: Motor Rehabilitation? Now it is a game!",
+            "link": {
+                "url": "",
+                "type": ""
+            },
+            "position": {
+                "name": "Milan",
+                "address": ""
+            },
+            "startdate": {
+                "month": "4",
+                "year": "2013"
+            },
+            "type": "press",
+            "image": "aboutme/settegiorni_small.jpg",
+            "dimension": "medium",
+            "content": "[...] Mirko is changing the way we heal [...] <br/><br/>Full reference available in italian (click on the rounded image)"
+        }
+    ]
+}
